@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyPad.iml" filepath="$PROJECT_DIR$/MyPad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartPad.iml" filepath="$PROJECT_DIR$/SmartPad.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
